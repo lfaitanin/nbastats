@@ -1,0 +1,19 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
+}
+
+html body {
+  background-color: #17408b;
+  height: 100vh;
+}
+
+html {
+  box-sizing: border-box;
+}
